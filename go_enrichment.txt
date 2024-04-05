@@ -1,0 +1,1055 @@
+GO_ID	Group	Description	FDR	Enrichment
+GO:0006810	prmt5_down	transport	8.38e-17	1.3
+GO:0051234	prmt5_down	establishment of localization	7.62e-15	1.27
+GO:0006629	prmt5_down	lipid metabolic process	5.81e-15	1.61
+GO:0044255	prmt5_down	cellular lipid metabolic process	2.89e-11	1.59
+GO:0045047	prmt5_down	protein targeting to ER	1.23e-10	2.67
+GO:0051179	prmt5_down	localization	1.51e-10	1.21
+GO:0043603	prmt5_down	cellular amide metabolic process	2.35e-10	1.68
+GO:0070972	prmt5_down	protein localization to endoplasmic reticulum	2.88e-10	2.5
+GO:0071702	prmt5_down	organic substance transport	3.54e-10	1.34
+GO:0072599	prmt5_down	establishment of protein localization to endoplasmic reticulum	5.14e-10	2.57
+GO:0006612	prmt5_down	protein targeting to membrane	6.98e-10	2.31
+GO:0006613	prmt5_down	cotranslational protein targeting to membrane	8.51e-10	2.66
+GO:0008203	prmt5_down	cholesterol metabolic process	1.11e-9	2.7
+GO:0016125	prmt5_down	sterol metabolic process	2.27e-9	2.58
+GO:0006614	prmt5_down	SRP-dependent cotranslational protein targeting to membrane	2.64e-9	2.68
+GO:1902652	prmt5_down	secondary alcohol metabolic process	2.72e-9	2.64
+GO:0006605	prmt5_down	protein targeting	2.57e-9	1.85
+GO:0008610	prmt5_down	lipid biosynthetic process	3.82e-9	1.67
+GO:0044281	prmt5_down	small molecule metabolic process	6.3e-9	1.36
+GO:0042886	prmt5_down	amide transport	7.71e-9	1.39
+GO:0008202	prmt5_down	steroid metabolic process	1.57e-8	2.11
+GO:0015833	prmt5_down	peptide transport	3.17e-8	1.38
+GO:0006518	prmt5_down	peptide metabolic process	8.13e-8	1.79
+GO:0015031	prmt5_down	protein transport	8.2e-8	1.37
+GO:0006695	prmt5_down	cholesterol biosynthetic process	1.29e-7	3.44
+GO:1902653	prmt5_down	secondary alcohol biosynthetic process	1.24e-7	3.44
+GO:0016192	prmt5_down	vesicle-mediated transport	1.24e-7	1.34
+GO:0009056	prmt5_down	catabolic process	1.3e-7	1.3
+GO:1901615	prmt5_down	organic hydroxy compound metabolic process	1.31e-7	1.73
+GO:0016126	prmt5_down	sterol biosynthetic process	1.89e-7	3.3
+GO:1901564	prmt5_down	organonitrogen compound metabolic process	3.08e-7	1.16
+GO:0006631	prmt5_down	fatty acid metabolic process	3.51e-7	1.84
+GO:0044248	prmt5_down	cellular catabolic process	4.46e-7	1.31
+GO:0046903	prmt5_down	secretion	4.82e-7	1.45
+GO:0032787	prmt5_down	monocarboxylic acid metabolic process	5e-7	1.65
+GO:0071705	prmt5_down	nitrogen compound transport	5.16e-7	1.31
+GO:0006066	prmt5_down	alcohol metabolic process	5.17e-7	1.83
+GO:0045184	prmt5_down	establishment of protein localization	8.73e-7	1.33
+GO:0006694	prmt5_down	steroid biosynthetic process	9e-7	2.42
+GO:0046890	prmt5_down	regulation of lipid biosynthetic process	1.04e-6	2.03
+GO:0051186	prmt5_down	cofactor metabolic process	1.4e-6	1.61
+GO:0006886	prmt5_down	intracellular protein transport	1.95e-6	1.43
+GO:0016042	prmt5_down	lipid catabolic process	2.15e-6	1.86
+GO:0019752	prmt5_down	carboxylic acid metabolic process	2.91e-6	1.44
+GO:0019216	prmt5_down	regulation of lipid metabolic process	3.7e-6	1.66
+GO:0000184	prmt5_down	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	7.75e-6	2.13
+GO:0090181	prmt5_down	regulation of cholesterol metabolic process	7.66e-6	2.77
+GO:0090150	prmt5_down	establishment of protein localization to membrane	7.79e-6	1.74
+GO:0032940	prmt5_down	secretion by cell	7.98e-6	1.43
+GO:0043436	prmt5_down	oxoacid metabolic process	9.35e-6	1.4
+GO:0019083	prmt5_down	viral transcription	1.52e-5	2.1
+GO:0050810	prmt5_down	regulation of steroid biosynthetic process	1.66e-5	2.41
+GO:0046907	prmt5_down	intracellular transport	2.03e-5	1.28
+GO:0006082	prmt5_down	organic acid metabolic process	2.1e-5	1.39
+GO:0006413	prmt5_down	translational initiation	2.34e-5	2.01
+GO:1901575	prmt5_down	organic substance catabolic process	3.52e-5	1.27
+GO:0019217	prmt5_down	regulation of fatty acid metabolic process	3.79e-5	2.4
+GO:0019218	prmt5_down	regulation of steroid metabolic process	3.9e-5	2.2
+GO:0043043	prmt5_down	peptide biosynthetic process	5.25e-5	1.78
+GO:0044242	prmt5_down	cellular lipid catabolic process	5.32e-5	1.89
+GO:0045540	prmt5_down	regulation of cholesterol biosynthetic process	5.46e-5	2.85
+GO:0106118	prmt5_down	regulation of sterol biosynthetic process	5.38e-5	2.85
+GO:0045055	prmt5_down	regulated exocytosis	5.8e-5	1.47
+GO:1901698	prmt5_down	response to nitrogen compound	6.85e-5	1.4
+GO:0065008	prmt5_down	regulation of biological quality	7e-5	1.18
+GO:0006887	prmt5_down	exocytosis	9.53e-5	1.43
+GO:0010243	prmt5_down	response to organonitrogen compound	1.06e-4	1.41
+GO:0055114	prmt5_down	oxidation-reduction process	1.71e-4	1.56
+GO:0008104	prmt5_down	protein localization	2.26e-4	1.22
+GO:0009058	prmt5_down	biosynthetic process	2.28e-4	1.2
+GO:0006732	prmt5_down	coenzyme metabolic process	2.42e-4	1.62
+GO:0043604	prmt5_down	amide biosynthetic process	2.42e-4	1.57
+GO:0033036	prmt5_down	macromolecule localization	2.6e-4	1.22
+GO:0042304	prmt5_down	regulation of fatty acid biosynthetic process	2.61e-4	2.94
+GO:0008654	prmt5_down	phospholipid biosynthetic process	2.68e-4	1.68
+GO:0045923	prmt5_down	positive regulation of fatty acid metabolic process	2.76e-4	3.38
+GO:0042221	prmt5_down	response to chemical	2.87e-4	1.2
+GO:0051649	prmt5_down	establishment of localization in cell	3.7e-4	1.23
+GO:1901576	prmt5_down	organic substance biosynthetic process	3.89e-4	1.2
+GO:0048193	prmt5_down	Golgi vesicle transport	4.89e-4	1.54
+GO:1902930	prmt5_down	regulation of alcohol biosynthetic process	9.74e-4	2.31
+GO:0006644	prmt5_down	phospholipid metabolic process	0.00102	1.52
+GO:1901566	prmt5_down	organonitrogen compound biosynthetic process	0.00101	1.32
+GO:0090407	prmt5_down	organophosphate biosynthetic process	0.0011	1.42
+GO:0019538	prmt5_down	protein metabolic process	0.00113	1.14
+GO:0006412	prmt5_down	translation	0.00126	1.69
+GO:0007584	prmt5_down	response to nutrient	0.00126	1.81
+GO:0046486	prmt5_down	glycerolipid metabolic process	0.00128	1.52
+GO:0062012	prmt5_down	regulation of small molecule metabolic process	0.00133	1.47
+GO:0044283	prmt5_down	small molecule biosynthetic process	0.00136	1.41
+GO:1901617	prmt5_down	organic hydroxy compound biosynthetic process	0.00146	1.84
+GO:0001101	prmt5_down	response to acid chemical	0.00176	1.58
+GO:0055092	prmt5_down	sterol homeostasis	0.00212	2.29
+GO:0072594	prmt5_down	establishment of protein localization to organelle	0.00243	1.45
+GO:0010565	prmt5_down	regulation of cellular ketone metabolic process	0.00266	1.74
+GO:0019637	prmt5_down	organophosphate metabolic process	0.00268	1.3
+GO:0006465	prmt5_down	signal peptide processing	0.00303	4.05
+GO:0062013	prmt5_down	positive regulation of small molecule metabolic process	0.00375	1.91
+GO:0019395	prmt5_down	fatty acid oxidation	0.00418	2.08
+GO:0044249	prmt5_down	cellular biosynthetic process	0.00435	1.17
+GO:0042632	prmt5_down	cholesterol homeostasis	0.00455	2.24
+GO:0051051	prmt5_down	negative regulation of transport	0.00474	1.48
+GO:1905953	prmt5_down	negative regulation of lipid localization	0.00508	2.63
+GO:0034440	prmt5_down	lipid oxidation	0.00549	2.05
+GO:0010033	prmt5_down	response to organic substance	0.00582	1.2
+GO:0072657	prmt5_down	protein localization to membrane	0.00594	1.39
+GO:0034754	prmt5_down	cellular hormone metabolic process	0.00729	2.02
+GO:0032368	prmt5_down	regulation of lipid transport	0.00759	1.97
+GO:0043312	prmt5_down	neutrophil degranulation	0.00801	1.42
+GO:0007031	prmt5_down	peroxisome organization	0.00799	2.04
+GO:1903008	prmt5_down	organelle disassembly	0.00792	2.04
+GO:1901568	prmt5_down	fatty acid derivative metabolic process	0.00817	1.78
+GO:0002283	prmt5_down	neutrophil activation involved in immune response	0.00871	1.42
+GO:0043299	prmt5_down	leukocyte degranulation	0.00935	1.41
+GO:0030968	prmt5_down	endoplasmic reticulum unfolded protein response	0.00931	1.86
+GO:0002376	prmt5_down	immune system process	0.0101	1.2
+GO:0097305	prmt5_down	response to alcohol	0.0101	1.67
+GO:1990748	prmt5_down	cellular detoxification	0.0101	2.01
+GO:0042119	prmt5_down	neutrophil activation	0.0103	1.41
+GO:0098869	prmt5_down	cellular oxidant detoxification	0.0103	2.1
+GO:1901264	prmt5_down	carbohydrate derivative transport	0.0102	2.1
+GO:0098754	prmt5_down	detoxification	0.0102	1.95
+GO:0045017	prmt5_down	glycerolipid biosynthetic process	0.0109	1.57
+GO:1905952	prmt5_down	regulation of lipid localization	0.0116	1.79
+GO:0001775	prmt5_down	cell activation	0.0116	1.29
+GO:0036230	prmt5_down	granulocyte activation	0.0122	1.4
+GO:0042493	prmt5_down	response to drug	0.013	1.33
+GO:0006123	prmt5_down	mitochondrial electron transport, cytochrome c to oxygen	0.0137	3.3
+GO:0019646	prmt5_down	aerobic electron transport chain	0.0136	3.3
+GO:0055076	prmt5_down	transition metal ion homeostasis	0.0136	1.82
+GO:0034976	prmt5_down	response to endoplasmic reticulum stress	0.0146	1.51
+GO:0002275	prmt5_down	myeloid cell activation involved in immune response	0.0157	1.39
+GO:0030301	prmt5_down	cholesterol transport	0.0156	2.29
+GO:0006633	prmt5_down	fatty acid biosynthetic process	0.0159	1.86
+GO:0046165	prmt5_down	alcohol biosynthetic process	0.0157	1.86
+GO:0006805	prmt5_down	xenobiotic metabolic process	0.0159	1.9
+GO:0009057	prmt5_down	macromolecule catabolic process	0.0162	1.24
+GO:0014070	prmt5_down	response to organic cyclic compound	0.0162	1.33
+GO:1901135	prmt5_down	carbohydrate derivative metabolic process	0.0162	1.27
+GO:0055088	prmt5_down	lipid homeostasis	0.0162	1.76
+GO:1901700	prmt5_down	response to oxygen-containing compound	0.0167	1.23
+GO:0016236	prmt5_down	macroautophagy	0.017	1.74
+GO:0032892	prmt5_down	positive regulation of organic acid transport	0.0173	3.03
+GO:0010885	prmt5_down	regulation of cholesterol storage	0.0178	3.43
+GO:0016485	prmt5_down	protein processing	0.0177	1.72
+GO:0042445	prmt5_down	hormone metabolic process	0.0176	1.72
+GO:0045321	prmt5_down	leukocyte activation	0.018	1.29
+GO:0006508	prmt5_down	proteolysis	0.0182	1.23
+GO:0009719	prmt5_down	response to endogenous stimulus	0.0192	1.26
+GO:0006914	prmt5_down	autophagy	0.0197	1.49
+GO:0061919	prmt5_down	process utilizing autophagic mechanism	0.0196	1.49
+GO:0015918	prmt5_down	sterol transport	0.0195	2.07
+GO:0006641	prmt5_down	triglyceride metabolic process	0.0201	2.24
+GO:0006091	prmt5_down	generation of precursor metabolites and energy	0.0213	1.43
+GO:0002181	prmt5_down	cytoplasmic translation	0.0212	2.29
+GO:0046394	prmt5_down	carboxylic acid biosynthetic process	0.0217	1.48
+GO:0030855	prmt5_down	epithelial cell differentiation	0.0222	1.52
+GO:0006650	prmt5_down	glycerophospholipid metabolic process	0.0221	1.44
+GO:0072376	prmt5_down	protein activation cascade	0.0227	2.4
+GO:0045723	prmt5_down	positive regulation of fatty acid biosynthetic process	0.0226	3.6
+GO:0006888	prmt5_down	ER to Golgi vesicle-mediated transport	0.0237	1.58
+GO:0016053	prmt5_down	organic acid biosynthetic process	0.024	1.48
+GO:0002263	prmt5_down	cell activation involved in immune response	0.0238	1.34
+GO:0009991	prmt5_down	response to extracellular stimulus	0.0242	1.38
+GO:0002366	prmt5_down	leukocyte activation involved in immune response	0.0242	1.34
+GO:0002252	prmt5_down	immune effector process	0.0243	1.27
+GO:0051641	prmt5_down	cellular localization	0.0242	1.15
+GO:0005996	prmt5_down	monosaccharide metabolic process	0.0251	1.61
+GO:1905954	prmt5_down	positive regulation of lipid localization	0.0253	1.97
+GO:0072330	prmt5_down	monocarboxylic acid biosynthetic process	0.0258	1.59
+GO:0006635	prmt5_down	fatty acid beta-oxidation	0.0269	2.06
+GO:0017144	prmt5_down	drug metabolic process	0.0271	1.34
+GO:0009725	prmt5_down	response to hormone	0.027	1.32
+GO:0000956	prmt5_down	nuclear-transcribed mRNA catabolic process	0.0269	1.53
+GO:0006869	prmt5_down	lipid transport	0.0269	1.51
+GO:0010887	prmt5_down	negative regulation of cholesterol storage	0.0272	3.85
+GO:1904950	prmt5_down	negative regulation of establishment of protein localization	0.0273	1.78
+GO:0002576	prmt5_down	platelet degranulation	0.0271	1.78
+GO:0033559	prmt5_down	unsaturated fatty acid metabolic process	0.0273	1.87
+GO:0010038	prmt5_down	response to metal ion	0.0286	1.47
+GO:0006661	prmt5_down	phosphatidylinositol biosynthetic process	0.0287	1.75
+GO:0006811	prmt5_down	ion transport	0.0295	1.24
+GO:0046474	prmt5_down	glycerophospholipid biosynthetic process	0.0298	1.53
+GO:0051047	prmt5_down	positive regulation of secretion	0.0297	1.51
+GO:0050818	prmt5_down	regulation of coagulation	0.03	2
+GO:1901361	prmt5_down	organic cyclic compound catabolic process	0.0305	1.33
+GO:0055072	prmt5_down	iron ion homeostasis	0.0304	1.93
+GO:1903573	prmt5_down	negative regulation of response to endoplasmic reticulum stress	0.0306	2.11
+GO:2001171	prmt5_down	positive regulation of ATP biosynthetic process	0.0306	2.58
+GO:0051046	prmt5_down	regulation of secretion	0.0329	1.34
+GO:0043574	prmt5_down	peroxisomal transport	0.0341	1.95
+GO:0009062	prmt5_down	fatty acid catabolic process	0.0341	1.79
+GO:0010817	prmt5_down	regulation of hormone levels	0.0359	1.38
+GO:0031667	prmt5_down	response to nutrient levels	0.0357	1.38
+GO:0006637	prmt5_down	acyl-CoA metabolic process	0.0358	1.82
+GO:0035383	prmt5_down	thioester metabolic process	0.0356	1.82
+GO:0036498	prmt5_down	IRE1-mediated unfolded protein response	0.0361	2.04
+GO:0070887	prmt5_down	cellular response to chemical stimulus	0.0374	1.19
+GO:0000041	prmt5_down	transition metal ion transport	0.0383	1.79
+GO:0010888	prmt5_down	negative regulation of lipid storage	0.0382	2.91
+GO:0032890	prmt5_down	regulation of organic acid transport	0.0383	2.22
+GO:0048878	prmt5_down	chemical homeostasis	0.04	1.25
+GO:0008643	prmt5_down	carbohydrate transport	0.0419	1.98
+GO:0034032	prmt5_down	purine nucleoside bisphosphate metabolic process	0.0434	1.68
+GO:0033865	prmt5_down	nucleoside bisphosphate metabolic process	0.0432	1.68
+GO:0033875	prmt5_down	ribonucleoside bisphosphate metabolic process	0.043	1.68
+GO:0046321	prmt5_down	positive regulation of fatty acid oxidation	0.043	3.3
+GO:0015908	prmt5_down	fatty acid transport	0.0432	2.09
+GO:0002274	prmt5_down	myeloid leukocyte activation	0.0433	1.32
+GO:0046320	prmt5_down	regulation of fatty acid oxidation	0.045	2.48
+GO:1905897	prmt5_down	regulation of response to endoplasmic reticulum stress	0.0455	1.77
+GO:0006402	prmt5_down	mRNA catabolic process	0.0456	1.48
+GO:0051188	prmt5_down	cofactor biosynthetic process	0.046	1.49
+GO:0019318	prmt5_down	hexose metabolic process	0.0476	1.62
+GO:0008152	prmt5_down	metabolic process	0.0474	1.06
+GO:0051224	prmt5_down	negative regulation of protein transport	0.0476	1.74
+GO:0044282	prmt5_down	small molecule catabolic process	0.0476	1.36
+GO:0072329	prmt5_down	monocarboxylic acid catabolic process	0.0475	1.68
+GO:0006690	prmt5_down	icosanoid metabolic process	0.0498	1.84
+GO:0019439	prmt5_down	aromatic compound catabolic process	0.0541	1.32
+GO:0060706	prmt5_down	cell differentiation involved in embryonic placenta development	0.0547	2.97
+GO:0050896	prmt5_down	response to stimulus	0.0567	1.09
+GO:0006625	prmt5_down	protein targeting to peroxisome	0.0585	1.9
+GO:0072663	prmt5_down	establishment of protein localization to peroxisome	0.0582	1.9
+GO:0072662	prmt5_down	protein localization to peroxisome	0.058	1.9
+GO:0030258	prmt5_down	lipid modification	0.0583	1.48
+GO:1903580	prmt5_down	positive regulation of ATP metabolic process	0.0582	2.25
+GO:0006401	prmt5_down	RNA catabolic process	0.0594	1.44
+GO:0045600	prmt5_down	positive regulation of fat cell differentiation	0.0612	2.07
+GO:0006956	prmt5_down	complement activation	0.0612	2.75
+GO:0015850	prmt5_down	organic hydroxy compound transport	0.0613	1.68
+GO:0045834	prmt5_down	positive regulation of lipid metabolic process	0.061	1.68
+GO:0050794	prmt5_up	regulation of cellular process	6.91e-15	1.13
+GO:0071840	prmt5_up	cellular component organization or biogenesis	1.02e-12	1.2
+GO:0050789	prmt5_up	regulation of biological process	3.8e-12	1.11
+GO:0016043	prmt5_up	cellular component organization	3.1e-12	1.2
+GO:0048518	prmt5_up	positive regulation of biological process	3.16e-12	1.19
+GO:0051128	prmt5_up	regulation of cellular component organization	8.06e-12	1.32
+GO:0048522	prmt5_up	positive regulation of cellular process	1.94e-11	1.2
+GO:0065007	prmt5_up	biological regulation	5.25e-11	1.09
+GO:1903047	prmt5_up	mitotic cell cycle process	7.3e-11	1.63
+GO:0032502	prmt5_up	developmental process	3.2e-10	1.21
+GO:0050793	prmt5_up	regulation of developmental process	8.57e-10	1.3
+GO:0000375	prmt5_up	RNA splicing, via transesterification reactions	5.23e-9	1.9
+GO:0051239	prmt5_up	regulation of multicellular organismal process	1.15e-8	1.26
+GO:0000377	prmt5_up	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	1.88e-8	1.88
+GO:0000398	prmt5_up	mRNA splicing, via spliceosome	1.76e-8	1.88
+GO:0009893	prmt5_up	positive regulation of metabolic process	1.9e-8	1.22
+GO:0008380	prmt5_up	RNA splicing	1.91e-8	1.73
+GO:0010604	prmt5_up	positive regulation of macromolecule metabolic process	3.11e-8	1.23
+GO:0009987	prmt5_up	cellular process	3.43e-8	1.06
+GO:0022402	prmt5_up	cell cycle process	7.13e-8	1.42
+GO:0006397	prmt5_up	mRNA processing	7.65e-8	1.65
+GO:0051130	prmt5_up	positive regulation of cellular component organization	8.54e-8	1.39
+GO:2000026	prmt5_up	regulation of multicellular organismal development	8.93e-8	1.31
+GO:0048523	prmt5_up	negative regulation of cellular process	8.96e-8	1.18
+GO:0045595	prmt5_up	regulation of cell differentiation	1.25e-7	1.33
+GO:0051493	prmt5_up	regulation of cytoskeleton organization	2.49e-7	1.59
+GO:0031325	prmt5_up	positive regulation of cellular metabolic process	2.61e-7	1.22
+GO:0007167	prmt5_up	enzyme linked receptor protein signaling pathway	3.33e-7	1.53
+GO:0051276	prmt5_up	chromosome organization	3.93e-7	1.65
+GO:0051173	prmt5_up	positive regulation of nitrogen compound metabolic process	3.8e-7	1.22
+GO:0048869	prmt5_up	cellular developmental process	3.95e-7	1.26
+GO:0051236	prmt5_up	establishment of RNA localization	3.98e-7	1.96
+GO:0050658	prmt5_up	RNA transport	5.75e-7	1.96
+GO:0050657	prmt5_up	nucleic acid transport	5.58e-7	1.96
+GO:0033043	prmt5_up	regulation of organelle organization	5.57e-7	1.35
+GO:0051169	prmt5_up	nuclear transport	5.47e-7	1.82
+GO:0006405	prmt5_up	RNA export from nucleus	9.45e-7	2.13
+GO:0007155	prmt5_up	cell adhesion	1.07e-6	1.5
+GO:0022610	prmt5_up	biological adhesion	2.19e-6	1.48
+GO:0048519	prmt5_up	negative regulation of biological process	2.17e-6	1.15
+GO:0006913	prmt5_up	nucleocytoplasmic transport	3.02e-6	1.78
+GO:0051168	prmt5_up	nuclear export	3.58e-6	1.97
+GO:0007165	prmt5_up	signal transduction	4.66e-6	1.18
+GO:0048856	prmt5_up	anatomical structure development	4.64e-6	1.21
+GO:0031323	prmt5_up	regulation of cellular metabolic process	6.85e-6	1.12
+GO:0060284	prmt5_up	regulation of cell development	8.9e-6	1.41
+GO:0007169	prmt5_up	transmembrane receptor protein tyrosine kinase signaling pathway	9.99e-6	1.56
+GO:0080090	prmt5_up	regulation of primary metabolic process	1.11e-5	1.13
+GO:0016477	prmt5_up	cell migration	1.41e-5	1.45
+GO:0032970	prmt5_up	regulation of actin filament-based process	1.42e-5	1.63
+GO:0051171	prmt5_up	regulation of nitrogen compound metabolic process	1.46e-5	1.13
+GO:0032956	prmt5_up	regulation of actin cytoskeleton organization	1.51e-5	1.66
+GO:0030154	prmt5_up	cell differentiation	2.71e-5	1.28
+GO:0044089	prmt5_up	positive regulation of cellular component biogenesis	3.15e-5	1.51
+GO:0051301	prmt5_up	cell division	3.41e-5	1.55
+GO:0006406	prmt5_up	mRNA export from nucleus	4.02e-5	2.09
+GO:0044087	prmt5_up	regulation of cellular component biogenesis	4.19e-5	1.36
+GO:0010628	prmt5_up	positive regulation of gene expression	4.63e-5	1.24
+GO:0045597	prmt5_up	positive regulation of cell differentiation	5.26e-5	1.38
+GO:0051960	prmt5_up	regulation of nervous system development	5.67e-5	1.39
+GO:0050767	prmt5_up	regulation of neurogenesis	6.07e-5	1.41
+GO:0097435	prmt5_up	supramolecular fiber organization	8.64e-5	1.55
+GO:0034330	prmt5_up	cell junction organization	8.78e-5	1.78
+GO:0019222	prmt5_up	regulation of metabolic process	8.69e-5	1.11
+GO:0032879	prmt5_up	regulation of localization	8.77e-5	1.21
+GO:0060255	prmt5_up	regulation of macromolecule metabolic process	1.05e-4	1.11
+GO:0007166	prmt5_up	cell surface receptor signaling pathway	1.05e-4	1.24
+GO:0045664	prmt5_up	regulation of neuron differentiation	1.18e-4	1.44
+GO:1902850	prmt5_up	microtubule cytoskeleton organization involved in mitosis	1.23e-4	2.01
+GO:0048870	prmt5_up	cell motility	1.46e-4	1.38
+GO:0051726	prmt5_up	regulation of cell cycle	1.49e-4	1.29
+GO:0051028	prmt5_up	mRNA transport	1.51e-4	1.87
+GO:0010562	prmt5_up	positive regulation of phosphorus metabolic process	1.56e-4	1.34
+GO:0045937	prmt5_up	positive regulation of phosphate metabolic process	1.54e-4	1.34
+GO:0007010	prmt5_up	cytoskeleton organization	1.54e-4	1.35
+GO:0051094	prmt5_up	positive regulation of developmental process	1.81e-4	1.3
+GO:0032270	prmt5_up	positive regulation of cellular protein metabolic process	1.81e-4	1.26
+GO:0015931	prmt5_up	nucleobase-containing compound transport	2.01e-4	1.67
+GO:0010557	prmt5_up	positive regulation of macromolecule biosynthetic process	2.32e-4	1.23
+GO:0051983	prmt5_up	regulation of chromosome segregation	2.38e-4	1.99
+GO:0009653	prmt5_up	anatomical structure morphogenesis	2.45e-4	1.29
+GO:2000113	prmt5_up	negative regulation of cellular macromolecule biosynthetic process	2.43e-4	1.26
+GO:0051172	prmt5_up	negative regulation of nitrogen compound metabolic process	2.41e-4	1.2
+GO:0032268	prmt5_up	regulation of cellular protein metabolic process	2.39e-4	1.19
+GO:0031327	prmt5_up	negative regulation of cellular biosynthetic process	2.49e-4	1.25
+GO:0009891	prmt5_up	positive regulation of biosynthetic process	2.5e-4	1.22
+GO:0010558	prmt5_up	negative regulation of macromolecule biosynthetic process	2.85e-4	1.25
+GO:0042327	prmt5_up	positive regulation of phosphorylation	2.86e-4	1.34
+GO:0048583	prmt5_up	regulation of response to stimulus	2.94e-4	1.15
+GO:0040011	prmt5_up	locomotion	2.96e-4	1.35
+GO:0044772	prmt5_up	mitotic cell cycle phase transition	3.04e-4	1.62
+GO:0031328	prmt5_up	positive regulation of cellular biosynthetic process	3.15e-4	1.22
+GO:0051253	prmt5_up	negative regulation of RNA metabolic process	3.13e-4	1.27
+GO:0045935	prmt5_up	positive regulation of nucleobase-containing compound metabolic process	3.31e-4	1.22
+GO:0034329	prmt5_up	cell junction assembly	3.57e-4	1.84
+GO:0008150	prmt5_up	biological_process	3.59e-4	1.02
+GO:0110053	prmt5_up	regulation of actin filament organization	3.6e-4	1.64
+GO:0051492	prmt5_up	regulation of stress fiber assembly	4.05e-4	2.16
+GO:0010468	prmt5_up	regulation of gene expression	4.19e-4	1.13
+GO:0048729	prmt5_up	tissue morphogenesis	4.38e-4	1.59
+GO:0051252	prmt5_up	regulation of RNA metabolic process	4.58e-4	1.15
+GO:0051336	prmt5_up	regulation of hydrolase activity	4.83e-4	1.29
+GO:0065009	prmt5_up	regulation of molecular function	4.96e-4	1.17
+GO:0030334	prmt5_up	regulation of cell migration	5.5e-4	1.35
+GO:0050790	prmt5_up	regulation of catalytic activity	5.53e-4	1.19
+GO:0051254	prmt5_up	positive regulation of RNA metabolic process	5.62e-4	1.23
+GO:0009890	prmt5_up	negative regulation of biosynthetic process	6.04e-4	1.24
+GO:0031344	prmt5_up	regulation of cell projection organization	6.04e-4	1.38
+GO:0019219	prmt5_up	regulation of nucleobase-containing compound metabolic process	6.21e-4	1.14
+GO:0048584	prmt5_up	positive regulation of response to stimulus	7.49e-4	1.21
+GO:0051495	prmt5_up	positive regulation of cytoskeleton organization	7.62e-4	1.72
+GO:0031324	prmt5_up	negative regulation of cellular metabolic process	7.97e-4	1.18
+GO:0051247	prmt5_up	positive regulation of protein metabolic process	8.08e-4	1.23
+GO:2000145	prmt5_up	regulation of cell motility	8.12e-4	1.33
+GO:0044770	prmt5_up	cell cycle phase transition	8.45e-4	1.57
+GO:0022618	prmt5_up	ribonucleoprotein complex assembly	8.42e-4	1.61
+GO:0022607	prmt5_up	cellular component assembly	8.82e-4	1.19
+GO:0006325	prmt5_up	chromatin organization	9.1e-4	1.34
+GO:0051246	prmt5_up	regulation of protein metabolic process	9.39e-4	1.17
+GO:0007049	prmt5_up	cell cycle	0.00111	1.44
+GO:0045934	prmt5_up	negative regulation of nucleobase-containing compound metabolic process	0.00112	1.23
+GO:0032231	prmt5_up	regulation of actin filament bundle assembly	0.00113	2.01
+GO:0019220	prmt5_up	regulation of phosphate metabolic process	0.00117	1.22
+GO:0051174	prmt5_up	regulation of phosphorus metabolic process	0.00117	1.22
+GO:0120035	prmt5_up	regulation of plasma membrane bounded cell projection organization	0.00119	1.37
+GO:0016071	prmt5_up	mRNA metabolic process	0.00119	1.34
+GO:0000278	prmt5_up	mitotic cell cycle	0.0012	1.81
+GO:0040012	prmt5_up	regulation of locomotion	0.00119	1.31
+GO:0070887	prmt5_up	cellular response to chemical stimulus	0.00122	1.23
+GO:0032989	prmt5_up	cellular component morphogenesis	0.00121	1.48
+GO:0090066	prmt5_up	regulation of anatomical structure size	0.00121	1.51
+GO:2000147	prmt5_up	positive regulation of cell motility	0.00131	1.43
+GO:0043933	prmt5_up	protein-containing complex subunit organization	0.00136	1.22
+GO:0031326	prmt5_up	regulation of cellular biosynthetic process	0.00144	1.13
+GO:0042221	prmt5_up	response to chemical	0.00148	1.18
+GO:0035556	prmt5_up	intracellular signal transduction	0.00147	1.23
+GO:0001934	prmt5_up	positive regulation of protein phosphorylation	0.00163	1.31
+GO:0006928	prmt5_up	movement of cell or subcellular component	0.00166	1.26
+GO:0031401	prmt5_up	positive regulation of protein modification process	0.00169	1.27
+GO:0065008	prmt5_up	regulation of biological quality	0.0017	1.14
+GO:0045892	prmt5_up	negative regulation of transcription, DNA-templated	0.00176	1.25
+GO:0042325	prmt5_up	regulation of phosphorylation	0.00176	1.23
+GO:0051240	prmt5_up	positive regulation of multicellular organismal process	0.00174	1.23
+GO:0031334	prmt5_up	positive regulation of protein complex assembly	0.00173	1.57
+GO:0071826	prmt5_up	ribonucleoprotein complex subunit organization	0.00179	1.56
+GO:0010033	prmt5_up	response to organic substance	0.0018	1.2
+GO:1902680	prmt5_up	positive regulation of RNA biosynthetic process	0.00187	1.22
+GO:0044093	prmt5_up	positive regulation of molecular function	0.00187	1.21
+GO:1902679	prmt5_up	negative regulation of RNA biosynthetic process	0.00194	1.25
+GO:1903507	prmt5_up	negative regulation of nucleic acid-templated transcription	0.00193	1.25
+GO:0031124	prmt5_up	mRNA 3'-end processing	0.00205	1.99
+GO:0110020	prmt5_up	regulation of actomyosin structure organization	0.00204	1.99
+GO:1902905	prmt5_up	positive regulation of supramolecular fiber organization	0.00203	1.7
+GO:0034333	prmt5_up	adherens junction assembly	0.0021	2.6
+GO:0030335	prmt5_up	positive regulation of cell migration	0.00212	1.42
+GO:0022603	prmt5_up	regulation of anatomical structure morphogenesis	0.00216	1.28
+GO:0045893	prmt5_up	positive regulation of transcription, DNA-templated	0.00221	1.22
+GO:1903508	prmt5_up	positive regulation of nucleic acid-templated transcription	0.0022	1.22
+GO:0051270	prmt5_up	regulation of cellular component movement	0.00219	1.29
+GO:2000112	prmt5_up	regulation of cellular macromolecule biosynthetic process	0.00219	1.13
+GO:0023051	prmt5_up	regulation of signaling	0.00219	1.14
+GO:0033045	prmt5_up	regulation of sister chromatid segregation	0.00236	1.96
+GO:0007346	prmt5_up	regulation of mitotic cell cycle	0.00243	1.34
+GO:0009889	prmt5_up	regulation of biosynthetic process	0.00248	1.12
+GO:0010556	prmt5_up	regulation of macromolecule biosynthetic process	0.00252	1.13
+GO:0010646	prmt5_up	regulation of cell communication	0.00262	1.14
+GO:0031123	prmt5_up	RNA 3'-end processing	0.00275	1.78
+GO:0051272	prmt5_up	positive regulation of cellular component movement	0.00278	1.4
+GO:0010975	prmt5_up	regulation of neuron projection development	0.00283	1.41
+GO:0007051	prmt5_up	spindle organization	0.00284	1.72
+GO:0048010	prmt5_up	vascular endothelial growth factor receptor signaling pathway	0.00292	2.11
+GO:0010564	prmt5_up	regulation of cell cycle process	0.00335	1.3
+GO:1902903	prmt5_up	regulation of supramolecular fiber organization	0.00337	1.46
+GO:1903311	prmt5_up	regulation of mRNA metabolic process	0.00335	1.46
+GO:0023056	prmt5_up	positive regulation of signaling	0.00366	1.21
+GO:0071310	prmt5_up	cellular response to organic substance	0.00365	1.25
+GO:0051716	prmt5_up	cellular response to stimulus	0.00368	1.15
+GO:0050900	prmt5_up	leukocyte migration	0.0037200000000000002	1.66
+GO:0010638	prmt5_up	positive regulation of organelle organization	0.00394	1.34
+GO:0007052	prmt5_up	mitotic spindle organization	0.00425	1.92
+GO:0033047	prmt5_up	regulation of mitotic sister chromatid segregation	0.00423	1.99
+GO:0006935	prmt5_up	chemotaxis	0.00427	1.61
+GO:0048646	prmt5_up	anatomical structure formation involved in morphogenesis	0.00469	1.35
+GO:0043254	prmt5_up	regulation of protein complex assembly	0.00468	1.39
+GO:0090304	prmt5_up	nucleic acid metabolic process	0.00471	1.15
+GO:0010647	prmt5_up	positive regulation of cell communication	0.00482	1.2
+GO:0043085	prmt5_up	positive regulation of catalytic activity	0.00479	1.23
+GO:0032233	prmt5_up	positive regulation of actin filament bundle assembly	0.00479	2.2
+GO:1905818	prmt5_up	regulation of chromosome separation	0.00485	2.03
+GO:0042330	prmt5_up	taxis	0.00492	1.6
+GO:0040017	prmt5_up	positive regulation of locomotion	0.00492	1.38
+GO:0009967	prmt5_up	positive regulation of signal transduction	0.00499	1.21
+GO:0001525	prmt5_up	angiogenesis	0.00499	1.57
+GO:0034097	prmt5_up	response to cytokine	0.00506	1.39
+GO:0030155	prmt5_up	regulation of cell adhesion	0.00556	1.34
+GO:0031399	prmt5_up	regulation of protein modification process	0.00606	1.19
+GO:0002009	prmt5_up	morphogenesis of an epithelium	0.00619	1.54
+GO:0009966	prmt5_up	regulation of signal transduction	0.00631	1.14
+GO:0051962	prmt5_up	positive regulation of nervous system development	0.00645	1.39
+GO:0048771	prmt5_up	tissue remodeling	0.00658	2.15
+GO:0071824	prmt5_up	protein-DNA complex subunit organization	0.00658	1.53
+GO:0007179	prmt5_up	transforming growth factor beta receptor signaling pathway	0.00665	1.88
+GO:0071103	prmt5_up	DNA conformation change	0.00676	1.63
+GO:0048592	prmt5_up	eye morphogenesis	0.00698	2.46
+GO:0010810	prmt5_up	regulation of cell-substrate adhesion	0.00716	1.59
+GO:0098813	prmt5_up	nuclear chromosome segregation	0.00717	2.27
+GO:0010965	prmt5_up	regulation of mitotic sister chromatid separation	0.00729	2.04
+GO:0031109	prmt5_up	microtubule polymerization or depolymerization	0.00732	2.82
+GO:0007059	prmt5_up	chromosome segregation	0.00757	1.78
+GO:0042981	prmt5_up	regulation of apoptotic process	0.00754	1.21
+GO:1902099	prmt5_up	regulation of metaphase/anaphase transition of cell cycle	0.00776	2.06
+GO:0048511	prmt5_up	rhythmic process	0.00775	1.54
+GO:0034728	prmt5_up	nucleosome organization	0.00845	1.64
+GO:0006468	prmt5_up	protein phosphorylation	0.00877	1.27
+GO:0045216	prmt5_up	cell-cell junction organization	0.00908	1.74
+GO:0000070	prmt5_up	mitotic sister chromatid segregation	0.0103	2.46
+GO:0051496	prmt5_up	positive regulation of stress fiber assembly	0.0102	2.22
+GO:0043067	prmt5_up	regulation of programmed cell death	0.0102	1.2
+GO:0000819	prmt5_up	sister chromatid segregation	0.0105	2.39
+GO:0010769	prmt5_up	regulation of cell morphogenesis involved in differentiation	0.0105	1.47
+GO:0010629	prmt5_up	negative regulation of gene expression	0.0111	1.17
+GO:0032271	prmt5_up	regulation of protein polymerization	0.012	1.55
+GO:0007015	prmt5_up	actin filament organization	0.0121	1.51
+GO:0050769	prmt5_up	positive regulation of neurogenesis	0.0123	1.39
+GO:0010720	prmt5_up	positive regulation of cell development	0.0123	1.36
+GO:0010605	prmt5_up	negative regulation of macromolecule metabolic process	0.0123	1.14
+GO:0045666	prmt5_up	positive regulation of neuron differentiation	0.0123	1.44
+GO:0009611	prmt5_up	response to wounding	0.0125	1.63
+GO:0009725	prmt5_up	response to hormone	0.013	1.33
+GO:0000226	prmt5_up	microtubule cytoskeleton organization	0.0131	1.38
+GO:0030036	prmt5_up	actin cytoskeleton organization	0.0137	1.44
+GO:0071426	prmt5_up	ribonucleoprotein complex export from nucleus	0.0149	3.31
+GO:0071428	prmt5_up	rRNA-containing ribonucleoprotein complex export from nucleus	0.0148	3.31
+GO:0033750	prmt5_up	ribosome localization	0.0147	3.31
+GO:0000054	prmt5_up	ribosomal subunit export from nucleus	0.0147	3.31
+GO:0030071	prmt5_up	regulation of mitotic metaphase/anaphase transition	0.0146	2.01
+GO:0043087	prmt5_up	regulation of GTPase activity	0.0151	1.36
+GO:0010762	prmt5_up	regulation of fibroblast migration	0.015	2.39
+GO:0021987	prmt5_up	cerebral cortex development	0.0158	2.03
+GO:0042127	prmt5_up	regulation of cell proliferation	0.0157	1.2
+GO:0065003	prmt5_up	protein-containing complex assembly	0.0167	1.2
+GO:0008652	prmt5_up	cellular amino acid biosynthetic process	0.0177	1.96
+GO:0032535	prmt5_up	regulation of cellular component size	0.0179	1.48
+GO:0001932	prmt5_up	regulation of protein phosphorylation	0.0184	1.2
+GO:0098609	prmt5_up	cell-cell adhesion	0.0189	1.4
+GO:0043410	prmt5_up	positive regulation of MAPK cascade	0.019	1.36
+GO:2001141	prmt5_up	regulation of RNA biosynthetic process	0.0191	1.12
+GO:0009892	prmt5_up	negative regulation of metabolic process	0.0191	1.13
+GO:0001649	prmt5_up	osteoblast differentiation	0.0193	1.85
+GO:0022604	prmt5_up	regulation of cell morphogenesis	0.0195	1.35
+GO:0006355	prmt5_up	regulation of transcription, DNA-templated	0.0201	1.12
+GO:0030029	prmt5_up	actin filament-based process	0.0205	1.39
+GO:0007088	prmt5_up	regulation of mitotic nuclear division	0.0206	1.58
+GO:0006970	prmt5_up	response to osmotic stress	0.0205	2
+GO:0016072	prmt5_up	rRNA metabolic process	0.0205	1.45
+GO:0050896	prmt5_up	response to stimulus	0.0205	1.1
+GO:1903506	prmt5_up	regulation of nucleic acid-templated transcription	0.0205	1.12
+GO:0000380	prmt5_up	alternative mRNA splicing, via spliceosome	0.0204	2.98
+GO:0006337	prmt5_up	nucleosome disassembly	0.0203	2.98
+GO:0090596	prmt5_up	sensory organ morphogenesis	0.0204	2.2
+GO:0000904	prmt5_up	cell morphogenesis involved in differentiation	0.0205	1.75
+GO:0000469	prmt5_up	cleavage involved in rRNA processing	0.0206	2.48
+GO:1902100	prmt5_up	negative regulation of metaphase/anaphase transition of cell cycle	0.0205	2.48
+GO:0030199	prmt5_up	collagen fibril organization	0.0204	2.48
+GO:0007229	prmt5_up	integrin-mediated signaling pathway	0.0204	1.86
+GO:0048024	prmt5_up	regulation of mRNA splicing, via spliceosome	0.0206	1.78
+GO:0034660	prmt5_up	ncRNA metabolic process	0.0208	1.3
+GO:0009719	prmt5_up	response to endogenous stimulus	0.0209	1.24
+GO:0010770	prmt5_up	positive regulation of cell morphogenesis involved in differentiation	0.021	1.63
+GO:0043549	prmt5_up	regulation of kinase activity	0.0211	1.25
+GO:1900024	prmt5_up	regulation of substrate adhesion-dependent cell spreading	0.0211	2.02
+GO:0032291	prmt5_up	axon ensheathment in central nervous system	0.0213	4.77
+GO:0022010	prmt5_up	central nervous system myelination	0.0212	4.77
+GO:0050932	prmt5_up	regulation of pigment cell differentiation	0.0211	4.77
+GO:0009887	prmt5_up	animal organ morphogenesis	0.0211	1.35
+GO:0048731	prmt5_up	system development	0.0216	1.3
+GO:0051383	prmt5_up	kinetochore organization	0.0243	2.76
+GO:0030168	prmt5_up	platelet activation	0.0246	1.88
+GO:0000055	prmt5_up	ribosomal large subunit export from nucleus	0.0249	4.09
+GO:0060396	prmt5_up	growth hormone receptor signaling pathway	0.0248	4.09
+GO:0033044	prmt5_up	regulation of chromosome organization	0.0257	1.37
+GO:1903046	prmt5_up	meiotic cell cycle process	0.0263	1.63
+GO:0051093	prmt5_up	negative regulation of developmental process	0.0263	1.25
+GO:0048513	prmt5_up	animal organ development	0.0263	1.21
+GO:0065004	prmt5_up	protein-DNA complex assembly	0.0271	1.5
+GO:0051347	prmt5_up	positive regulation of transferase activity	0.0271	1.29
+GO:0006520	prmt5_up	cellular amino acid metabolic process	0.0271	1.43
+GO:0050684	prmt5_up	regulation of mRNA processing	0.0272	1.62
+GO:0010941	prmt5_up	regulation of cell death	0.0281	1.18
+GO:0009628	prmt5_up	response to abiotic stimulus	0.028	1.23
+GO:0006396	prmt5_up	RNA processing	0.0284	1.2
+GO:1901987	prmt5_up	regulation of cell cycle phase transition	0.0286	1.32
+GO:0032273	prmt5_up	positive regulation of protein polymerization	0.0287	1.71
+GO:0031577	prmt5_up	spindle checkpoint	0.0286	2.48
+GO:0030198	prmt5_up	extracellular matrix organization	0.0288	1.46
+GO:0051985	prmt5_up	negative regulation of chromosome segregation	0.0288	2.25
+GO:0070527	prmt5_up	platelet aggregation	0.0287	2.25
+GO:0071345	prmt5_up	cellular response to cytokine stimulus	0.0286	1.39
+GO:0016310	prmt5_up	phosphorylation	0.029	1.21
+GO:0033674	prmt5_up	positive regulation of kinase activity	0.0295	1.31
+GO:0032392	prmt5_up	DNA geometric change	0.0304	1.65
+GO:0060968	prmt5_up	regulation of gene silencing	0.0309	1.57
+GO:0007163	prmt5_up	establishment or maintenance of cell polarity	0.0326	1.59
+GO:0060341	prmt5_up	regulation of cellular localization	0.0329	1.23
+GO:0034332	prmt5_up	adherens junction organization	0.0338	1.82
+GO:0043065	prmt5_up	positive regulation of apoptotic process	0.0356	1.28
+GO:0051129	prmt5_up	negative regulation of cellular component organization	0.0356	1.25
+GO:0060326	prmt5_up	cell chemotaxis	0.0356	1.72
+GO:1902531	prmt5_up	regulation of intracellular signal transduction	0.036	1.16
+GO:0070507	prmt5_up	regulation of microtubule cytoskeleton organization	0.0366	1.51
+GO:0045132	prmt5_up	meiotic chromosome segregation	0.0372	3.18
+GO:0007019	prmt5_up	microtubule depolymerization	0.0371	3.18
+GO:0008283	prmt5_up	cell proliferation	0.0371	1.36
+GO:0043170	prmt5_up	macromolecule metabolic process	0.037	1.07
+GO:0000387	prmt5_up	spliceosomal snRNP assembly	0.038	2.14
+GO:0006611	prmt5_up	protein export from nucleus	0.0379	2.14
+GO:0001763	prmt5_up	morphogenesis of a branching structure	0.038	1.65
+GO:0045785	prmt5_up	positive regulation of cell adhesion	0.0391	1.38
+GO:0006417	prmt5_up	regulation of translation	0.0397	1.35
+GO:0006338	prmt5_up	chromatin remodeling	0.0398	1.51
+GO:0071214	prmt5_up	cellular response to abiotic stimulus	0.0405	1.42
+GO:0104004	prmt5_up	cellular response to environmental stimulus	0.0403	1.42
+GO:0051345	prmt5_up	positive regulation of hydrolase activity	0.0403	1.25
+GO:0051098	prmt5_up	regulation of binding	0.0412	1.36
+GO:0060966	prmt5_up	regulation of gene silencing by RNA	0.0417	1.62
+GO:0060147	prmt5_up	regulation of posttranscriptional gene silencing	0.0415	1.62
+GO:1905819	prmt5_up	negative regulation of chromosome separation	0.0416	2.3
+GO:0045841	prmt5_up	negative regulation of mitotic metaphase/anaphase transition	0.0416	2.39
+GO:1901990	prmt5_up	regulation of mitotic cell cycle phase transition	0.0425	1.32
+GO:0051338	prmt5_up	regulation of transferase activity	0.0436	1.21
+GO:0050789	wdr77_up	regulation of biological process	4.74e-18	1.13
+GO:0065007	wdr77_up	biological regulation	4.47e-18	1.12
+GO:0050794	wdr77_up	regulation of cellular process	4.56e-17	1.14
+GO:0007165	wdr77_up	signal transduction	8.05e-14	1.27
+GO:0048522	wdr77_up	positive regulation of cellular process	1.34e-13	1.22
+GO:0048518	wdr77_up	positive regulation of biological process	1.12e-13	1.2
+GO:0009987	wdr77_up	cellular process	6.34e-13	1.07
+GO:0048519	wdr77_up	negative regulation of biological process	5.55e-13	1.21
+GO:0051128	wdr77_up	regulation of cellular component organization	5.37e-11	1.31
+GO:0048523	wdr77_up	negative regulation of cellular process	5.22e-10	1.2
+GO:0016043	wdr77_up	cellular component organization	2.46e-9	1.18
+GO:0071840	wdr77_up	cellular component organization or biogenesis	3.18e-9	1.17
+GO:0007167	wdr77_up	enzyme linked receptor protein signaling pathway	5.87e-9	1.6
+GO:0050793	wdr77_up	regulation of developmental process	7.17e-9	1.29
+GO:1903047	wdr77_up	mitotic cell cycle process	2e-8	1.56
+GO:0006614	wdr77_up	SRP-dependent cotranslational protein targeting to membrane	2.86e-8	2.54
+GO:0006613	wdr77_up	cotranslational protein targeting to membrane	3.25e-8	2.48
+GO:0007155	wdr77_up	cell adhesion	3.19e-8	1.56
+GO:0022610	wdr77_up	biological adhesion	7.02e-8	1.55
+GO:0051239	wdr77_up	regulation of multicellular organismal process	9.48e-8	1.25
+GO:0031325	wdr77_up	positive regulation of cellular metabolic process	2.71e-7	1.22
+GO:0030334	wdr77_up	regulation of cell migration	3.93e-7	1.49
+GO:0045047	wdr77_up	protein targeting to ER	4.15e-7	2.31
+GO:0032268	wdr77_up	regulation of cellular protein metabolic process	4.29e-7	1.25
+GO:0045595	wdr77_up	regulation of cell differentiation	5.25e-7	1.32
+GO:0040012	wdr77_up	regulation of locomotion	5.4e-7	1.45
+GO:0072599	wdr77_up	establishment of protein localization to endoplasmic reticulum	5.4e-7	2.27
+GO:0051130	wdr77_up	positive regulation of cellular component organization	5.29e-7	1.37
+GO:0009893	wdr77_up	positive regulation of metabolic process	5.11e-7	1.2
+GO:2000145	wdr77_up	regulation of cell motility	4.97e-7	1.46
+GO:0051493	wdr77_up	regulation of cytoskeleton organization	7.69e-7	1.58
+GO:0010604	wdr77_up	positive regulation of macromolecule metabolic process	8.49e-7	1.21
+GO:0051173	wdr77_up	positive regulation of nitrogen compound metabolic process	1.01e-6	1.21
+GO:0032502	wdr77_up	developmental process	1.04e-6	1.17
+GO:0033043	wdr77_up	regulation of organelle organization	1.06e-6	1.34
+GO:0032270	wdr77_up	positive regulation of cellular protein metabolic process	1.11e-6	1.33
+GO:0051270	wdr77_up	regulation of cellular component movement	1.1e-6	1.43
+GO:0051246	wdr77_up	regulation of protein metabolic process	1.11e-6	1.23
+GO:0007169	wdr77_up	transmembrane receptor protein tyrosine kinase signaling pathway	1.22e-6	1.6
+GO:0035556	wdr77_up	intracellular signal transduction	1.35e-6	1.32
+GO:0007166	wdr77_up	cell surface receptor signaling pathway	1.77e-6	1.28
+GO:0009892	wdr77_up	negative regulation of metabolic process	2.05e-6	1.21
+GO:0000184	wdr77_up	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	2.34e-6	2.15
+GO:0048583	wdr77_up	regulation of response to stimulus	2.53e-6	1.18
+GO:2000026	wdr77_up	regulation of multicellular organismal development	2.74e-6	1.28
+GO:0070972	wdr77_up	protein localization to endoplasmic reticulum	4.27e-6	2.1
+GO:0051247	wdr77_up	positive regulation of protein metabolic process	4.46e-6	1.3
+GO:0070887	wdr77_up	cellular response to chemical stimulus	4.58e-6	1.31
+GO:0097435	wdr77_up	supramolecular fiber organization	5.17e-6	1.62
+GO:0010629	wdr77_up	negative regulation of gene expression	5.34e-6	1.27
+GO:0006412	wdr77_up	translation	5.48e-6	1.86
+GO:0010605	wdr77_up	negative regulation of macromolecule metabolic process	5.72e-6	1.21
+GO:0071310	wdr77_up	cellular response to organic substance	5.63e-6	1.35
+GO:0016032	wdr77_up	viral process	6.76e-6	1.43
+GO:0044403	wdr77_up	symbiont process	6.64e-6	1.43
+GO:0051301	wdr77_up	cell division	8.33e-6	1.59
+GO:0043043	wdr77_up	peptide biosynthetic process	9.68e-6	1.81
+GO:0044419	wdr77_up	interspecies interaction between organisms	9.54e-6	1.39
+GO:0051704	wdr77_up	multi-organism process	1.09e-5	1.32
+GO:0050790	wdr77_up	regulation of catalytic activity	1.12e-5	1.23
+GO:0019083	wdr77_up	viral transcription	1.11e-5	2.08
+GO:0051093	wdr77_up	negative regulation of developmental process	1.11e-5	1.41
+GO:0008150	wdr77_up	biological_process	1.64e-5	1.02
+GO:1902850	wdr77_up	microtubule cytoskeleton organization involved in mitosis	1.92e-5	2.12
+GO:0009966	wdr77_up	regulation of signal transduction	1.92e-5	1.2
+GO:0031324	wdr77_up	negative regulation of cellular metabolic process	2.02e-5	1.21
+GO:0042221	wdr77_up	response to chemical	2.68e-5	1.22
+GO:0065008	wdr77_up	regulation of biological quality	2.65e-5	1.18
+GO:0007010	wdr77_up	cytoskeleton organization	2.83e-5	1.38
+GO:0023051	wdr77_up	regulation of signaling	3.15e-5	1.18
+GO:0016477	wdr77_up	cell migration	3.49e-5	1.43
+GO:0051241	wdr77_up	negative regulation of multicellular organismal process	3.78e-5	1.35
+GO:0032879	wdr77_up	regulation of localization	3.73e-5	1.21
+GO:0010646	wdr77_up	regulation of cell communication	3.78e-5	1.18
+GO:0022402	wdr77_up	cell cycle process	3.82e-5	1.34
+GO:0051172	wdr77_up	negative regulation of nitrogen compound metabolic process	4.43e-5	1.21
+GO:0048870	wdr77_up	cell motility	4.56e-5	1.4
+GO:0002376	wdr77_up	immune system process	4.67e-5	1.26
+GO:0010033	wdr77_up	response to organic substance	5.68e-5	1.24
+GO:0019222	wdr77_up	regulation of metabolic process	5.84e-5	1.11
+GO:0006928	wdr77_up	movement of cell or subcellular component	6.76e-5	1.31
+GO:0022603	wdr77_up	regulation of anatomical structure morphogenesis	7.82e-5	1.34
+GO:0060255	wdr77_up	regulation of macromolecule metabolic process	8.16e-5	1.11
+GO:0045597	wdr77_up	positive regulation of cell differentiation	1.06e-4	1.36
+GO:0032956	wdr77_up	regulation of actin cytoskeleton organization	1.18e-4	1.6
+GO:1902531	wdr77_up	regulation of intracellular signal transduction	1.23e-4	1.24
+GO:0048856	wdr77_up	anatomical structure development	1.23e-4	1.18
+GO:0031327	wdr77_up	negative regulation of cellular biosynthetic process	1.4e-4	1.26
+GO:0030335	wdr77_up	positive regulation of cell migration	1.4e-4	1.5
+GO:0045596	wdr77_up	negative regulation of cell differentiation	1.41e-4	1.43
+GO:0048585	wdr77_up	negative regulation of response to stimulus	1.4e-4	1.26
+GO:0006413	wdr77_up	translational initiation	1.39e-4	1.9
+GO:0065009	wdr77_up	regulation of molecular function	1.49e-4	1.18
+GO:0032970	wdr77_up	regulation of actin filament-based process	1.72e-4	1.56
+GO:0007059	wdr77_up	chromosome segregation	1.74e-4	2.02
+GO:0051094	wdr77_up	positive regulation of developmental process	1.98e-4	1.29
+GO:0040011	wdr77_up	locomotion	2.05e-4	1.35
+GO:0042127	wdr77_up	regulation of cell proliferation	2.03e-4	1.27
+GO:0009890	wdr77_up	negative regulation of biosynthetic process	2.02e-4	1.25
+GO:0031323	wdr77_up	regulation of cellular metabolic process	2.06e-4	1.11
+GO:0006518	wdr77_up	peptide metabolic process	2.09e-4	1.56
+GO:0045664	wdr77_up	regulation of neuron differentiation	2.08e-4	1.43
+GO:0071495	wdr77_up	cellular response to endogenous stimulus	2.07e-4	1.41
+GO:0016071	wdr77_up	mRNA metabolic process	2.13e-4	1.38
+GO:0010638	wdr77_up	positive regulation of organelle organization	2.3e-4	1.41
+GO:0070527	wdr77_up	platelet aggregation	2.29e-4	2.8
+GO:0072594	wdr77_up	establishment of protein localization to organelle	2.33e-4	1.49
+GO:0110053	wdr77_up	regulation of actin filament organization	2.32e-4	1.66
+GO:0007229	wdr77_up	integrin-mediated signaling pathway	2.79e-4	2.21
+GO:0050900	wdr77_up	leukocyte migration	2.77e-4	1.78
+GO:2000147	wdr77_up	positive regulation of cell motility	2.76e-4	1.47
+GO:0031344	wdr77_up	regulation of cell projection organization	2.74e-4	1.4
+GO:0060284	wdr77_up	regulation of cell development	3.58e-4	1.35
+GO:0007051	wdr77_up	spindle organization	3.7e-4	1.84
+GO:0040017	wdr77_up	positive regulation of locomotion	3.71e-4	1.45
+GO:0120035	wdr77_up	regulation of plasma membrane bounded cell projection organization	3.82e-4	1.4
+GO:0010558	wdr77_up	negative regulation of macromolecule biosynthetic process	3.95e-4	1.25
+GO:0051272	wdr77_up	positive regulation of cellular component movement	4.08e-4	1.45
+GO:0007411	wdr77_up	axon guidance	4.29e-4	1.68
+GO:2000113	wdr77_up	negative regulation of cellular macromolecule biosynthetic process	4.36e-4	1.25
+GO:0050896	wdr77_up	response to stimulus	4.54e-4	1.13
+GO:0051336	wdr77_up	regulation of hydrolase activity	4.55e-4	1.28
+GO:0034330	wdr77_up	cell junction organization	4.76e-4	1.72
+GO:0006402	wdr77_up	mRNA catabolic process	4.76e-4	1.66
+GO:0097485	wdr77_up	neuron projection guidance	5.01e-4	1.67
+GO:0051495	wdr77_up	positive regulation of cytoskeleton organization	5.44e-4	1.74
+GO:0043085	wdr77_up	positive regulation of catalytic activity	5.53e-4	1.26
+GO:0007179	wdr77_up	transforming growth factor beta receptor signaling pathway	5.57e-4	2.04
+GO:0007015	wdr77_up	actin filament organization	5.96e-4	1.64
+GO:0051240	wdr77_up	positive regulation of multicellular organismal process	5.97e-4	1.25
+GO:0000956	wdr77_up	nuclear-transcribed mRNA catabolic process	7.09e-4	1.67
+GO:0032870	wdr77_up	cellular response to hormone stimulus	7.05e-4	1.57
+GO:0032271	wdr77_up	regulation of protein polymerization	7.37e-4	1.69
+GO:0097190	wdr77_up	apoptotic signaling pathway	7.39e-4	1.62
+GO:0045785	wdr77_up	positive regulation of cell adhesion	7.68e-4	1.53
+GO:1902532	wdr77_up	negative regulation of intracellular signal transduction	8.02e-4	1.42
+GO:0009719	wdr77_up	response to endogenous stimulus	8.15e-4	1.31
+GO:0044772	wdr77_up	mitotic cell cycle phase transition	8.8e-4	1.57
+GO:0051171	wdr77_up	regulation of nitrogen compound metabolic process	0.00105	1.1
+GO:0009968	wdr77_up	negative regulation of signal transduction	0.00112	1.26
+GO:0072657	wdr77_up	protein localization to membrane	0.00113	1.42
+GO:0006612	wdr77_up	protein targeting to membrane	0.00114	1.74
+GO:0010965	wdr77_up	regulation of mitotic sister chromatid separation	0.00116	2.18
+GO:0007178	wdr77_up	transmembrane receptor protein serine/threonine kinase signaling pathway	0.00116	1.78
+GO:0034248	wdr77_up	regulation of cellular amide metabolic process	0.0012	1.44
+GO:0051716	wdr77_up	cellular response to stimulus	0.00133	1.16
+GO:0043254	wdr77_up	regulation of protein complex assembly	0.00137	1.43
+GO:0044770	wdr77_up	cell cycle phase transition	0.00142	1.55
+GO:0080090	wdr77_up	regulation of primary metabolic process	0.00155	1.1
+GO:0009059	wdr77_up	macromolecule biosynthetic process	0.00155	1.25
+GO:0010562	wdr77_up	positive regulation of phosphorus metabolic process	0.00165	1.29
+GO:0045937	wdr77_up	positive regulation of phosphate metabolic process	0.00164	1.29
+GO:1902905	wdr77_up	positive regulation of supramolecular fiber organization	0.00166	1.72
+GO:0072332	wdr77_up	intrinsic apoptotic signaling pathway by p53 class mediator	0.00175	2.38
+GO:0010628	wdr77_up	positive regulation of gene expression	0.0018600000000000001	1.19
+GO:0010975	wdr77_up	regulation of neuron projection development	0.00189	1.43
+GO:0048869	wdr77_up	cellular developmental process	0.00191	1.18
+GO:0006417	wdr77_up	regulation of translation	0.00191	1.47
+GO:0034332	wdr77_up	adherens junction organization	0.00206	2.09
+GO:0042771	wdr77_up	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	0.00223	2.85
+GO:0007052	wdr77_up	mitotic spindle organization	0.00226	2
+GO:0048010	wdr77_up	vascular endothelial growth factor receptor signaling pathway	0.00228	2.14
+GO:0030155	wdr77_up	regulation of cell adhesion	0.00237	1.37
+GO:0030071	wdr77_up	regulation of mitotic metaphase/anaphase transition	0.00237	2.17
+GO:0042981	wdr77_up	regulation of apoptotic process	0.00255	1.23
+GO:0006401	wdr77_up	RNA catabolic process	0.00262	1.56
+GO:0000278	wdr77_up	mitotic cell cycle	0.00265	1.77
+GO:2000816	wdr77_up	negative regulation of mitotic sister chromatid separation	0.00266	2.72
+GO:0043067	wdr77_up	regulation of programmed cell death	0.00268	1.23
+GO:0032269	wdr77_up	negative regulation of cellular protein metabolic process	0.00267	1.28
+GO:0010468	wdr77_up	regulation of gene expression	0.0028	1.11
+GO:0044089	wdr77_up	positive regulation of cellular component biogenesis	0.00279	1.39
+GO:0050767	wdr77_up	regulation of neurogenesis	0.00283	1.33
+GO:0048013	wdr77_up	ephrin receptor signaling pathway	0.00313	1.99
+GO:0051641	wdr77_up	cellular localization	0.00312	1.17
+GO:0097193	wdr77_up	intrinsic apoptotic signaling pathway	0.0031	1.73
+GO:0031401	wdr77_up	positive regulation of protein modification process	0.00309	1.26
+GO:0009725	wdr77_up	response to hormone	0.00314	1.37
+GO:0034645	wdr77_up	cellular macromolecule biosynthetic process	0.00313	1.27
+GO:1902099	wdr77_up	regulation of metaphase/anaphase transition of cell cycle	0.00313	2.13
+GO:1901564	wdr77_up	organonitrogen compound metabolic process	0.00317	1.1
+GO:1901566	wdr77_up	organonitrogen compound biosynthetic process	0.00315	1.28
+GO:0042327	wdr77_up	positive regulation of phosphorylation	0.00316	1.29
+GO:0032233	wdr77_up	positive regulation of actin filament bundle assembly	0.00347	2.23
+GO:0034109	wdr77_up	homotypic cell-cell adhesion	0.00353	2.32
+GO:0031334	wdr77_up	positive regulation of protein complex assembly	0.00361	1.55
+GO:0045841	wdr77_up	negative regulation of mitotic metaphase/anaphase transition	0.00364	2.74
+GO:0061024	wdr77_up	membrane organization	0.00379	1.32
+GO:0042325	wdr77_up	regulation of phosphorylation	0.00381	1.22
+GO:0031399	wdr77_up	regulation of protein modification process	0.00393	1.2
+GO:0051253	wdr77_up	negative regulation of RNA metabolic process	0.00398	1.22
+GO:0045936	wdr77_up	negative regulation of phosphate metabolic process	0.00415	1.36
+GO:1905819	wdr77_up	negative regulation of chromosome separation	0.00416	2.63
+GO:0051179	wdr77_up	localization	0.00426	1.11
+GO:0045862	wdr77_up	positive regulation of proteolysis	0.0044	1.46
+GO:0010563	wdr77_up	negative regulation of phosphorus metabolic process	0.00454	1.36
+GO:0033046	wdr77_up	negative regulation of sister chromatid segregation	0.00454	2.53
+GO:0000226	wdr77_up	microtubule cytoskeleton organization	0.0046	1.42
+GO:0007088	wdr77_up	regulation of mitotic nuclear division	0.00476	1.66
+GO:1905818	wdr77_up	regulation of chromosome separation	0.00487	2.02
+GO:1902903	wdr77_up	regulation of supramolecular fiber organization	0.00485	1.46
+GO:0010632	wdr77_up	regulation of epithelial cell migration	0.00488	1.58
+GO:0051983	wdr77_up	regulation of chromosome segregation	0.00512	1.81
+GO:0006520	wdr77_up	cellular amino acid metabolic process	0.0052	1.51
+GO:0001775	wdr77_up	cell activation	0.00522	1.29
+GO:0048513	wdr77_up	animal organ development	0.00526	1.24
+GO:0030154	wdr77_up	cell differentiation	0.0053	1.2
+GO:0051271	wdr77_up	negative regulation of cellular component movement	0.00528	1.53
+GO:0051960	wdr77_up	regulation of nervous system development	0.00533	1.29
+GO:0051338	wdr77_up	regulation of transferase activity	0.00537	1.26
+GO:0034655	wdr77_up	nucleobase-containing compound catabolic process	0.00553	1.4
+GO:0016310	wdr77_up	phosphorylation	0.00555	1.24
+GO:0033047	wdr77_up	regulation of mitotic sister chromatid segregation	0.00574	1.97
+GO:1902100	wdr77_up	negative regulation of metaphase/anaphase transition of cell cycle	0.00577	2.64
+GO:0090150	wdr77_up	establishment of protein localization to membrane	0.00585	1.49
+GO:0045892	wdr77_up	negative regulation of transcription, DNA-templated	0.00589	1.23
+GO:0043549	wdr77_up	regulation of kinase activity	0.0064	1.28
+GO:1902679	wdr77_up	negative regulation of RNA biosynthetic process	0.00672	1.22
+GO:1903507	wdr77_up	negative regulation of nucleic acid-templated transcription	0.00669	1.22
+GO:0043604	wdr77_up	amide biosynthetic process	0.00669	1.44
+GO:0051985	wdr77_up	negative regulation of chromosome segregation	0.00672	2.45
+GO:0034329	wdr77_up	cell junction assembly	0.00671	1.68
+GO:0030833	wdr77_up	regulation of actin filament polymerization	0.00668	1.68
+GO:0034644	wdr77_up	cellular response to UV	0.00668	1.93
+GO:0051653	wdr77_up	spindle localization	0.00672	2.22
+GO:0051248	wdr77_up	negative regulation of protein metabolic process	0.00682	1.25
+GO:0051496	wdr77_up	positive regulation of stress fiber assembly	0.00682	2.27
+GO:0002181	wdr77_up	cytoplasmic translation	0.00685	2.32
+GO:0006325	wdr77_up	chromatin organization	0.00684	1.29
+GO:0032231	wdr77_up	regulation of actin filament bundle assembly	0.00698	1.88
+GO:0002252	wdr77_up	immune effector process	0.00699	1.28
+GO:0048534	wdr77_up	hematopoietic or lymphoid organ development	0.00732	1.69
+GO:0051383	wdr77_up	kinetochore organization	0.00743	3.08
+GO:0044093	wdr77_up	positive regulation of molecular function	0.0075	1.19
+GO:0019220	wdr77_up	regulation of phosphate metabolic process	0.00794	1.19
+GO:0051174	wdr77_up	regulation of phosphorus metabolic process	0.00791	1.19
+GO:0043086	wdr77_up	negative regulation of catalytic activity	0.00803	1.31
+GO:0001932	wdr77_up	regulation of protein phosphorylation	0.00812	1.22
+GO:0010648	wdr77_up	negative regulation of cell communication	0.00844	1.22
+GO:0044249	wdr77_up	cellular biosynthetic process	0.00845	1.15
+GO:0001934	wdr77_up	positive regulation of protein phosphorylation	0.00858	1.27
+GO:0051492	wdr77_up	regulation of stress fiber assembly	0.00918	1.92
+GO:0010721	wdr77_up	negative regulation of cell development	0.00922	1.51
+GO:0033048	wdr77_up	negative regulation of mitotic sister chromatid segregation	0.00945	2.46
+GO:0023057	wdr77_up	negative regulation of signaling	0.00943	1.21
+GO:0042326	wdr77_up	negative regulation of phosphorylation	0.00956	1.38
+GO:0040013	wdr77_up	negative regulation of locomotion	0.00982	1.49
+GO:0014066	wdr77_up	regulation of phosphatidylinositol 3-kinase signaling	0.00985	1.83
+GO:0090066	wdr77_up	regulation of anatomical structure size	0.00986	1.43
+GO:0009058	wdr77_up	biosynthetic process	0.00985	1.15
+GO:0044092	wdr77_up	negative regulation of molecular function	0.00992	1.25
+GO:0010738	wdr77_up	regulation of protein kinase A signaling	0.00992	3.17
+GO:0030198	wdr77_up	extracellular matrix organization	0.0101	1.51
+GO:2001242	wdr77_up	regulation of intrinsic apoptotic signaling pathway	0.0101	1.66
+GO:0000377	wdr77_up	RNA splicing, via transesterification reactions with bulged adenosine as nucleophile	0.0102	1.46
+GO:0000398	wdr77_up	mRNA splicing, via spliceosome	0.0102	1.46
+GO:1901576	wdr77_up	organic substance biosynthetic process	0.0103	1.15
+GO:0010941	wdr77_up	regulation of cell death	0.0103	1.19
+GO:0071482	wdr77_up	cellular response to light stimulus	0.0106	1.83
+GO:0032273	wdr77_up	positive regulation of protein polymerization	0.0107	1.8
+GO:0045934	wdr77_up	negative regulation of nucleobase-containing compound metabolic process	0.0108	1.19
+GO:0044271	wdr77_up	cellular nitrogen compound biosynthetic process	0.0113	1.19
+GO:0000375	wdr77_up	RNA splicing, via transesterification reactions	0.0115	1.45
+GO:0033045	wdr77_up	regulation of sister chromatid segregation	0.0117	1.84
+GO:0051345	wdr77_up	positive regulation of hydrolase activity	0.0121	1.29
+GO:0044087	wdr77_up	regulation of cellular component biogenesis	0.0126	1.24
+GO:0072331	wdr77_up	signal transduction by p53 class mediator	0.0128	1.72
+GO:0009653	wdr77_up	anatomical structure morphogenesis	0.0128	1.22
+GO:0070727	wdr77_up	cellular macromolecule localization	0.0128	1.22
+GO:0006793	wdr77_up	phosphorus metabolic process	0.013	1.16
+GO:0034097	wdr77_up	response to cytokine	0.0131	1.35
+GO:0051294	wdr77_up	establishment of spindle orientation	0.0132	2.46
+GO:0007173	wdr77_up	epidermal growth factor receptor signaling pathway	0.0131	2.2
+GO:0051293	wdr77_up	establishment of spindle localization	0.0131	2.2
+GO:0098609	wdr77_up	cell-cell adhesion	0.0131	1.41
+GO:0034613	wdr77_up	cellular protein localization	0.0131	1.22
+GO:2000146	wdr77_up	negative regulation of cell motility	0.0131	1.52
+GO:0002433	wdr77_up	immune response-regulating cell surface receptor signaling pathway involved in phagocytosis	0.0131	2
+GO:0038096	wdr77_up	Fc-gamma receptor signaling pathway involved in phagocytosis	0.013	2
+GO:0038094	wdr77_up	Fc-gamma receptor signaling pathway	0.013	2
+GO:1901701	wdr77_up	cellular response to oxygen-containing compound	0.0136	1.28
+GO:0030336	wdr77_up	negative regulation of cell migration	0.0139	1.53
+GO:0032535	wdr77_up	regulation of cellular component size	0.0145	1.48
+GO:0033365	wdr77_up	protein localization to organelle	0.0148	1.28
+GO:0000086	wdr77_up	G2/M transition of mitotic cell cycle	0.0153	1.64
+GO:0034728	wdr77_up	nucleosome organization	0.0157	1.6
+GO:0030832	wdr77_up	regulation of actin filament length	0.0157	1.6
+GO:0043408	wdr77_up	regulation of MAPK cascade	0.0157	1.3
+GO:0010557	wdr77_up	positive regulation of macromolecule biosynthetic process	0.0158	1.17
+GO:0008284	wdr77_up	positive regulation of cell proliferation	0.016	1.28
+GO:0043410	wdr77_up	positive regulation of MAPK cascade	0.0165	1.36
+GO:0051649	wdr77_up	establishment of localization in cell	0.0165	1.17
+GO:0038065	wdr77_up	collagen-activated signaling pathway	0.0165	3.46
+GO:0002431	wdr77_up	Fc receptor mediated stimulatory signaling pathway	0.0169	1.97
+GO:0038127	wdr77_up	ERBB signaling pathway	0.0169	1.97
+GO:0051726	wdr77_up	regulation of cell cycle	0.0174	1.2
+GO:0071173	wdr77_up	spindle assembly checkpoint	0.0174	2.58
+GO:0071174	wdr77_up	mitotic spindle checkpoint	0.0173	2.58
+GO:0007094	wdr77_up	mitotic spindle assembly checkpoint	0.0173	2.58
+GO:0022607	wdr77_up	cellular component assembly	0.0184	1.14
+GO:0043062	wdr77_up	extracellular structure organization	0.019	1.45
+GO:0040001	wdr77_up	establishment of mitotic spindle localization	0.0191	2.38
+GO:0030029	wdr77_up	actin filament-based process	0.0191	1.38
+GO:0050932	wdr77_up	regulation of pigment cell differentiation	0.0193	4.76
+GO:0030036	wdr77_up	actin cytoskeleton organization	0.0194	1.42
+GO:0007163	wdr77_up	establishment or maintenance of cell polarity	0.0198	1.62
+GO:0044270	wdr77_up	cellular nitrogen compound catabolic process	0.02	1.34
+GO:0038063	wdr77_up	collagen-activated tyrosine kinase receptor signaling pathway	0.0202	3.7
+GO:1902533	wdr77_up	positive regulation of intracellular signal transduction	0.0202	1.24
+GO:0051783	wdr77_up	regulation of nuclear division	0.0203	1.55
+GO:0044839	wdr77_up	cell cycle G2/M phase transition	0.0206	1.61
+GO:0000910	wdr77_up	cytokinesis	0.0206	1.86
+GO:0061640	wdr77_up	cytoskeleton-dependent cytokinesis	0.0205	1.86
+GO:0006796	wdr77_up	phosphate-containing compound metabolic process	0.0206	1.15
+GO:0051254	wdr77_up	positive regulation of RNA metabolic process	0.0207	1.17
+GO:1900024	wdr77_up	regulation of substrate adhesion-dependent cell spreading	0.0207	2.04
+GO:0007346	wdr77_up	regulation of mitotic cell cycle	0.0215	1.28
+GO:0007049	wdr77_up	cell cycle	0.0217	1.34
+GO:0033622	wdr77_up	integrin activation	0.0222	4.08
+GO:0060396	wdr77_up	growth hormone receptor signaling pathway	0.0221	4.08
+GO:0008064	wdr77_up	regulation of actin polymerization or depolymerization	0.023	1.57
+GO:0002313	wdr77_up	mature B cell differentiation involved in immune response	0.025	3.06
+GO:0098813	wdr77_up	nuclear chromosome segregation	0.0251	2.14
+GO:0046700	wdr77_up	heterocycle catabolic process	0.0258	1.33
+GO:0051347	wdr77_up	positive regulation of transferase activity	0.0257	1.28
+GO:0043066	wdr77_up	negative regulation of apoptotic process	0.0263	1.25
+GO:0000132	wdr77_up	establishment of mitotic spindle orientation	0.0266	2.47
+GO:0031577	wdr77_up	spindle checkpoint	0.0265	2.47
+GO:0006468	wdr77_up	protein phosphorylation	0.0267	1.24
+GO:0032989	wdr77_up	cellular component morphogenesis	0.027	1.36
+GO:0031328	wdr77_up	positive regulation of cellular biosynthetic process	0.0276	1.16
+GO:0048731	wdr77_up	system development	0.0281	1.29
+GO:0044267	wdr77_up	cellular protein metabolic process	0.0282	1.11
+GO:0071824	wdr77_up	protein-DNA complex subunit organization	0.0282	1.45
+GO:0048584	wdr77_up	positive regulation of response to stimulus	0.0285	1.15
+GO:0051348	wdr77_up	negative regulation of transferase activity	0.0289	1.43
+GO:0006334	wdr77_up	nucleosome assembly	0.029	1.64
+GO:0031331	wdr77_up	positive regulation of cellular catabolic process	0.0291	1.35
+GO:0030837	wdr77_up	negative regulation of actin filament polymerization	0.0292	2.02
+GO:0050768	wdr77_up	negative regulation of neurogenesis	0.0293	1.48
+GO:0010634	wdr77_up	positive regulation of epithelial cell migration	0.0297	1.6
+GO:0048646	wdr77_up	anatomical structure formation involved in morphogenesis	0.0298	1.29
+GO:0051234	wdr77_up	establishment of localization	0.0306	1.1
+GO:0043603	wdr77_up	cellular amide metabolic process	0.0306	1.28
+GO:0002335	wdr77_up	mature B cell differentiation	0.0309	2.8
+GO:0006418	wdr77_up	tRNA aminoacylation for protein translation	0.0311	2.05
+GO:0001933	wdr77_up	negative regulation of protein phosphorylation	0.0312	1.35
+GO:2001243	wdr77_up	negative regulation of intrinsic apoptotic signaling pathway	0.0311	1.77
+GO:0110020	wdr77_up	regulation of actomyosin structure organization	0.0311	1.77
+GO:0051225	wdr77_up	spindle assembly	0.0311	1.81
+GO:0021987	wdr77_up	cerebral cortex development	0.0318	1.94
+GO:0009891	wdr77_up	positive regulation of biosynthetic process	0.0319	1.15
+GO:0010720	wdr77_up	positive regulation of cell development	0.0323	1.32
+GO:0010594	wdr77_up	regulation of endothelial cell migration	0.0326	1.56
+GO:0051129	wdr77_up	negative regulation of cellular component organization	0.0327	1.25
+GO:0043933	wdr77_up	protein-containing complex subunit organization	0.0328	1.16
+GO:0007019	wdr77_up	microtubule depolymerization	0.0331	3.17
+GO:0051149	wdr77_up	positive regulation of muscle cell differentiation	0.0333	1.87
+GO:0051056	wdr77_up	regulation of small GTPase mediated signal transduction	0.0347	1.39
+GO:1901342	wdr77_up	regulation of vasculature development	0.0349	1.42
+GO:0045665	wdr77_up	negative regulation of neuron differentiation	0.0363	1.52
+GO:0001501	wdr77_up	skeletal system development	0.0378	1.67
+GO:1902229	wdr77_up	regulation of intrinsic apoptotic signaling pathway in response to DNA damage	0.0378	2.23
+GO:0033628	wdr77_up	regulation of cell adhesion mediated by integrin	0.0377	2.23
+GO:0033674	wdr77_up	positive regulation of kinase activity	0.0377	1.29
+GO:0023056	wdr77_up	positive regulation of signaling	0.0379	1.16
+GO:0070507	wdr77_up	regulation of microtubule cytoskeleton organization	0.0382	1.5
+GO:1902253	wdr77_up	regulation of intrinsic apoptotic signaling pathway by p53 class mediator	0.0382	2.38
+GO:0071392	wdr77_up	cellular response to estradiol stimulus	0.0381	2.38
+GO:0031116	wdr77_up	positive regulation of microtubule polymerization	0.038	2.38
+GO:0031294	wdr77_up	lymphocyte costimulation	0.0379	2.3
+GO:0000070	wdr77_up	mitotic sister chromatid segregation	0.0378	2.3
+GO:0045859	wdr77_up	regulation of protein kinase activity	0.0379	1.25
+GO:0016126	wdr77_down	sterol biosynthetic process	2.27e-7	3.48
+GO:0006695	wdr77_down	cholesterol biosynthetic process	1.39e-6	3.41
+GO:1902653	wdr77_down	secondary alcohol biosynthetic process	9.27e-7	3.41
+GO:0016125	wdr77_down	sterol metabolic process	7.65e-6	2.31
+GO:0008203	wdr77_down	cholesterol metabolic process	2.2e-5	2.33
+GO:1902652	wdr77_down	secondary alcohol metabolic process	4.33e-5	2.28
+GO:0010243	wdr77_down	response to organonitrogen compound	4.6e-4	1.41
+GO:0042221	wdr77_down	response to chemical	5.09e-4	1.21
+GO:0008202	wdr77_down	steroid metabolic process	5.43e-4	1.81
+GO:0006694	wdr77_down	steroid biosynthetic process	6.96e-4	2.16
+GO:0006508	wdr77_down	proteolysis	6.55e-4	1.31
+GO:0034976	wdr77_down	response to endoplasmic reticulum stress	6.26e-4	1.68
+GO:1901698	wdr77_down	response to nitrogen compound	6.14e-4	1.38
+GO:0006810	wdr77_down	transport	8.98e-4	1.15
+GO:0046165	wdr77_down	alcohol biosynthetic process	0.00146	2.1
+GO:0000041	wdr77_down	transition metal ion transport	0.00146	2.12
+GO:0046890	wdr77_down	regulation of lipid biosynthetic process	0.00204	1.78
+GO:1901617	wdr77_down	organic hydroxy compound biosynthetic process	0.00203	1.88
+GO:0010033	wdr77_down	response to organic substance	0.00217	1.22
+GO:0051716	wdr77_down	cellular response to stimulus	0.00232	1.17
+GO:0036503	wdr77_down	ERAD pathway	0.00256	2.11
+GO:0051234	wdr77_down	establishment of localization	0.00302	1.14
+GO:0090181	wdr77_down	regulation of cholesterol metabolic process	0.003	2.39
+GO:0051603	wdr77_down	proteolysis involved in cellular protein catabolic process	0.00397	1.38
+GO:0030433	wdr77_down	ubiquitin-dependent ERAD pathway	0.00388	2.17
+GO:0080090	wdr77_down	regulation of primary metabolic process	0.0046	1.1
+GO:0050896	wdr77_down	response to stimulus	0.00444	1.12
+GO:0065009	wdr77_down	regulation of molecular function	0.0043	1.16
+GO:0016236	wdr77_down	macroautophagy	0.00426	1.89
+GO:0045540	wdr77_down	regulation of cholesterol biosynthetic process	0.00497	2.51
+GO:0106118	wdr77_down	regulation of sterol biosynthetic process	0.00481	2.51
+GO:0062012	wdr77_down	regulation of small molecule metabolic process	0.00525	1.45
+GO:0051179	wdr77_down	localization	0.00535	1.12
+GO:0019216	wdr77_down	regulation of lipid metabolic process	0.00585	1.48
+GO:0050810	wdr77_down	regulation of steroid biosynthetic process	0.00758	2.06
+GO:0070887	wdr77_down	cellular response to chemical stimulus	0.00808	1.23
+GO:0019941	wdr77_down	modification-dependent protein catabolic process	0.00919	1.38
+GO:0048260	wdr77_down	positive regulation of receptor-mediated endocytosis	0.01	2.45
+GO:0019218	wdr77_down	regulation of steroid metabolic process	0.0107	1.91
+GO:0006511	wdr77_down	ubiquitin-dependent protein catabolic process	0.0108	1.38
+GO:0006629	wdr77_down	lipid metabolic process	0.0113	1.27
+GO:0019222	wdr77_down	regulation of metabolic process	0.0112	1.09
+GO:0031323	wdr77_down	regulation of cellular metabolic process	0.0114	1.09
+GO:1905897	wdr77_down	regulation of response to endoplasmic reticulum stress	0.013	1.94
+GO:0019217	wdr77_down	regulation of fatty acid metabolic process	0.0204	2.03
+GO:0051049	wdr77_down	regulation of transport	0.0213	1.21
+GO:0030001	wdr77_down	metal ion transport	0.0215	1.4
+GO:0043632	wdr77_down	modification-dependent macromolecule catabolic process	0.0213	1.35
+GO:1902992	wdr77_down	negative regulation of amyloid precursor protein catabolic process	0.0233	3.02
+GO:0006811	wdr77_down	ion transport	0.0309	1.26
+GO:0006950	wdr77_down	response to stress	0.0343	1.14
+GO:0006066	wdr77_down	alcohol metabolic process	0.0368	1.49
+GO:0050801	wdr77_down	ion homeostasis	0.0365	1.34
+GO:0008610	wdr77_down	lipid biosynthetic process	0.0398	1.35
+GO:0030003	wdr77_down	cellular cation homeostasis	0.0422	1.38
+GO:1905037	wdr77_down	autophagosome organization	0.048	2.07
+GO:1901615	wdr77_down	organic hydroxy compound metabolic process	0.0491	1.4
+GO:0016192	wdr77_down	vesicle-mediated transport	0.0484	1.19
+GO:0006914	wdr77_down	autophagy	0.0482	1.49
+GO:0061919	wdr77_down	process utilizing autophagic mechanism	0.0474	1.49
+GO:0000045	wdr77_down	autophagosome assembly	0.0474	2.1
+GO:0019538	wdr77_down	protein metabolic process	0.0517	1.11
+GO:0032879	wdr77_down	regulation of localization	0.0517	1.15
+GO:1903573	wdr77_down	negative regulation of response to endoplasmic reticulum stress	0.0511	2.17
+GO:0030968	wdr77_down	endoplasmic reticulum unfolded protein response	0.0513	1.78
+GO:0051171	wdr77_down	regulation of nitrogen compound metabolic process	0.0506	1.08
+GO:0098780	wdr77_down	response to mitochondrial depolarisation	0.0521	2.92
+GO:0071310	wdr77_down	cellular response to organic substance	0.0518	1.22
+GO:0042304	wdr77_down	regulation of fatty acid biosynthetic process	0.0517	2.39
+GO:0071702	wdr77_down	organic substance transport	0.0516	1.16
+GO:0044255	wdr77_down	cellular lipid metabolic process	0.0548	1.26
+GO:0006873	wdr77_down	cellular ion homeostasis	0.0558	1.36
+GO:0010565	wdr77_down	regulation of cellular ketone metabolic process	0.0569	1.6
+GO:0033554	wdr77_down	cellular response to stress	0.0578	1.17
+GO:1902930	wdr77_down	regulation of alcohol biosynthetic process	0.063	1.98
+GO:0031100	wdr77_down	animal organ regeneration	0.0621	1.98
+GO:0008286	wdr77_down	insulin receptor signaling pathway	0.0623	1.85
+GO:0055088	wdr77_down	lipid homeostasis	0.0631	1.7
+GO:1903008	wdr77_down	organelle disassembly	0.0652	1.91
+GO:0046942	wdr77_down	carboxylic acid transport	0.0646	1.51
+GO:1902430	wdr77_down	negative regulation of amyloid-beta formation	0.0649	2.98
+GO:0071407	wdr77_down	cellular response to organic cyclic compound	0.0647	1.43
+GO:0023057	wdr77_down	negative regulation of signaling	0.0694	1.2
+GO:1900223	wdr77_down	positive regulation of amyloid-beta clearance	0.0688	4.77
+GO:0015849	wdr77_down	organic acid transport	0.0708	1.5
+GO:1901564	wdr77_down	organonitrogen compound metabolic process	0.0704	1.09
+GO:0035966	wdr77_down	response to topologically incorrect protein	0.0699	1.87
+GO:0014070	wdr77_down	response to organic cyclic compound	0.0727	1.3
+GO:0044093	wdr77_down	positive regulation of molecular function	0.0725	1.17
+GO:0010648	wdr77_down	negative regulation of cell communication	0.0743	1.2
+GO:0006812	wdr77_down	cation transport	0.077	1.3
+GO:0030163	wdr77_down	protein catabolic process	0.08	1.33
+GO:0032868	wdr77_down	response to insulin	0.0841	1.62
+GO:0065007	wdr77_down	biological regulation	0.0836	1.04
+GO:0000422	wdr77_down	autophagy of mitochondrion	0.0862	2.19
+GO:0061726	wdr77_down	mitochondrion disassembly	0.0853	2.19
+GO:0055080	wdr77_down	cation homeostasis	0.086	1.32
+GO:0043412	wdr77_down	macromolecule modification	0.0854	1.11
+GO:0046320	wdr77_down	regulation of fatty acid oxidation	0.0849	2.48
+GO:0036498	wdr77_down	IRE1-mediated unfolded protein response	0.0864	2
+GO:1901652	wdr77_down	response to peptide	0.0862	1.4
+GO:0006826	wdr77_down	iron ion transport	0.0928	2.03
+GO:1901568	wdr77_down	fatty acid derivative metabolic process	0.0944	1.63
+GO:0006464	wdr77_down	cellular protein modification process	0.094	1.11
+GO:0036211	wdr77_down	protein modification process	0.0931	1.11
+GO:0043434	wdr77_down	response to peptide hormone	0.0933	1.45
+GO:0043393	wdr77_down	regulation of protein binding	0.0926	1.51
+GO:0055092	wdr77_down	sterol homeostasis	0.0986	1.94
+GO:0061077	wdr77_down	chaperone-mediated protein folding	0.0977	1.94
+GO:0071345	wdr77_down	cellular response to cytokine stimulus	0.0984	1.38
+GO:0098771	wdr77_down	inorganic ion homeostasis	0.0986	1.31
+GO:1900221	wdr77_down	regulation of amyloid-beta clearance	0.103	3.18
+GO:0050909	wdr77_down	sensory perception of taste	0.102	3.18
+GO:0080134	wdr77_down	regulation of response to stress	0.101	1.18
+GO:0032368	wdr77_down	regulation of lipid transport	0.101	1.78
+GO:0009719	wdr77_down	response to endogenous stimulus	0.109	1.23
+GO:0032091	wdr77_down	negative regulation of protein binding	0.111	1.75
+GO:0007606	wdr77_down	sensory perception of chemical stimulus	0.115	2.39
+GO:0048583	wdr77_down	regulation of response to stimulus	0.12	1.1
